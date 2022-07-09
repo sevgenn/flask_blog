@@ -1,0 +1,19 @@
+body {
+    background-color: #ccffff;
+}
+
+h1 {
+    color: blue;
+}
+
+h3 {
+    color: #009999;
+}
+
+.content-section {
+    background: #fff;
+    padding: 10px 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
